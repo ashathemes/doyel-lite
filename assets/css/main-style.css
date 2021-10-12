@@ -1,0 +1,11 @@
+.header-area {
+	background-color: #f2f2f2;
+}
+.mainmenu ul li {
+	float: inherit;
+	display: inline-block;
+}
+.masonry-post article.post {
+	margin-bottom: 30px;
+	display: block;
+}
